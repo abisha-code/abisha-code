@@ -10,7 +10,7 @@ I build backend services and AI-driven applications with Python and FastAPI, wit
 
 ## 💼 What I do at work
 
-At **Avasoft Pvt. Ltd.**, I built a native AI agent on **Amazon Connect** using **Amazon Bedrock** and prompt engineering, automating responses across voice and SMS channels for customer service. I engineered the backend integrations in Python and FastAPI — connecting REST APIs, AWS Lambda, and Amazon API Gateway to the agent — and developed inbound/outbound campaigns across 5 channels (Voice, Chat, WhatsApp, Email, SMS), plus contributed to a Five9-to-Amazon Connect migration. This is client work, so the codebase is private. [TODO: add real numbers if you have them — e.g. call volume handled, response time improvement]
+At **Avasoft Pvt. Ltd.**, I built a native AI agent on **Amazon Connect** using **Amazon Bedrock** and prompt engineering, automating responses across voice and SMS channels for customer service. I engineered the backend integrations in Python and FastAPI — connecting REST APIs, AWS Lambda, and Amazon API Gateway to the agent — and developed inbound/outbound campaigns across 5 channels (Voice, Chat, WhatsApp, Email, SMS), plus contributed to a Five9-to-Amazon Connect migration. This is client work, so the codebase is private.
 
 ## 🧰 Tech stack
 
