@@ -4,31 +4,31 @@
  <img alt="Abisha J" src="https://raw.githubusercontent.com/abisha-code/abisha-code/main/light.svg">
 </picture>
 
-### Python Developer — backend systems & AI-powered applications ⚙️
+### Software Engineer — Python backend systems & AI-powered applications ⚙️
 
 I build backend services and AI-driven applications with Python and FastAPI, with production experience shipping conversational AI on AWS. Currently looking for full-time roles as an AI/ML Engineer or Backend Developer.
 
 ## 💼 What I do at work
 
-I work on a native AI agent for **Amazon Connect**, using **AWS Bedrock** and prompt engineering to power real-time conversational workflows across voice and SMS. [TODO: 2–3 lines on what you built, e.g. "An AI agent that handles hospital appointment booking — callers can book, cancel, or reschedule via voice or SMS, with the agent triggering backend actions through Lambda."] I also engineer the backend integrations (Python, FastAPI, REST APIs, Lambda, API Gateway) connecting the agent to real business actions. This is client work, so the codebase is private. [TODO: add real numbers if you have them — e.g. users served, call volume handled, time saved]
+At **Avasoft Pvt. Ltd.**, I built a native AI agent on **Amazon Connect** using **Amazon Bedrock** and prompt engineering, automating responses across voice and SMS channels for customer service. I engineered the backend integrations in Python and FastAPI — connecting REST APIs, AWS Lambda, and Amazon API Gateway to the agent — and developed inbound/outbound campaigns across 5 channels (Voice, Chat, WhatsApp, Email, SMS), plus contributed to a Five9-to-Amazon Connect migration. This is client work, so the codebase is private. [TODO: add real numbers if you have them — e.g. call volume handled, response time improvement]
 
 ## 🧰 Tech stack
 
 | Category | Tools |
 |---|---|
-| **Backend** | Python, FastAPI, REST APIs, SQLAlchemy |
-| **AI/ML** | Scikit-learn, Prompt Engineering, AWS Bedrock |
-| **Databases** | PostgreSQL, SQLite |
-| **Cloud/DevOps** | AWS (Amazon Connect, Lambda), Docker |
+| **Backend** | Python, FastAPI, REST APIs, SQLAlchemy, Pydantic |
+| **AI/ML** | Scikit-learn, PyTorch, Prompt Engineering, AWS Bedrock, AI Agents |
+| **Databases** | PostgreSQL, SQL, SQLite |
+| **Cloud/DevOps** | AWS (Amazon Connect, Lambda, API Gateway), Docker, Git |
 
 ## 🚀 Featured projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [customer-churn-ml-api](https://github.com/abisha-code/customer-churn-ml-api) | [TODO: one-line description] | Python, FastAPI, Scikit-learn |
+| [customer-churn-ml-api](https://github.com/abisha-code/customer-churn-ml-api) | Production-style REST API for customer churn prediction, with a versioned API (/api/v1, /api/v2), Pydantic-based config, and structured JSON logging. | Python, FastAPI, Scikit-learn, Pydantic |
 | [fastapi-todo-crud](https://github.com/abisha-code/fastapi-todo-crud) | [TODO: one-line description] | Python, FastAPI |
-| [restaurant-portal](https://github.com/abisha-code/restaurant-portal) | [TODO: one-line description] | [TODO: tech used] |
-| [support-desk](https://github.com/abisha-code/support-desk) | [TODO: one-line description] | [TODO: tech used] |
+| [restaurant-portal](https://github.com/abisha-code/restaurant-portal) | Full-stack restaurant site for table reservations, inquiries, and membership sign-ups, with a REST API and an admin dashboard for live status tracking. | Python, Flask, PostgreSQL, SQLAlchemy |
+| [support-desk](https://github.com/abisha-code/support-desk) | Lightweight IT support ticket tracker — employees submit tickets via a guided form, agents track and resolve them through a live, auto-refreshing dashboard. | Python (http.server), SQLite, JS |
 
 ## 📊 Stats
 
