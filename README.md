@@ -26,7 +26,6 @@ At **Avasoft Pvt. Ltd.**, I built a native AI agent on **Amazon Connect** using 
 | Project | Description | Tech |
 |---|---|---|
 | [customer-churn-ml-api](https://github.com/abisha-code/customer-churn-ml-api) | Production-style REST API for customer churn prediction, with a versioned API (/api/v1, /api/v2), Pydantic-based config, and structured JSON logging. | Python, FastAPI, Scikit-learn, Pydantic |
-| [fastapi-todo-crud](https://github.com/abisha-code/fastapi-todo-crud) | [TODO: one-line description] | Python, FastAPI |
 | [restaurant-portal](https://github.com/abisha-code/restaurant-portal) | Full-stack restaurant site for table reservations, inquiries, and membership sign-ups, with a REST API and an admin dashboard for live status tracking. | Python, Flask, PostgreSQL, SQLAlchemy |
 | [support-desk](https://github.com/abisha-code/support-desk) | Lightweight IT support ticket tracker — employees submit tickets via a guided form, agents track and resolve them through a live, auto-refreshing dashboard. | Python (http.server), SQLite, JS |
 
